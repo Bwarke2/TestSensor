@@ -12,7 +12,7 @@ namespace TempSensor
 			TempChangedEvent?.Invoke(this, new TempEventArg() { temp = _curretTemp });
 		}
 
-		public void Update(double inputTemp = -272)
+		public void Update(double inputTemp)
         {
 			if(inputTemp <= -273)
             {
@@ -22,11 +22,6 @@ namespace TempSensor
             {
 				_curretTemp = inputTemp;
             }
-        }
-
-		public double Read()
-        {
-			return _curretTemp;
         }
 
 		public void SimulateTempChanged()

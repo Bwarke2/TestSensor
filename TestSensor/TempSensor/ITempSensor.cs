@@ -9,7 +9,6 @@ namespace TempSensor
     public interface ITempSensor
     {
         event EventHandler<TempEventArg> TempChangedEvent;
-        double Read();
         void Update(double temp);
     }
 }
