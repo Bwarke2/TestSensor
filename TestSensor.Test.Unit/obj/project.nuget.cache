@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4y4bZN4lU+eFCd5JdNRRTkpI4qJ/jxKk8CZ0cHSPn+Sx26f1oJKST0CYvTI27eJp7SCPtsgIRIjOu9wZrWy2DQ==",
+  "dgSpecHash": "qWP7dK76KYYXoR0mF45GYt8PRjpbfnww1d6W0PrUht0OZ2w/viFejb4ebwvWPn/iH2r/qjIFBtxVo/P8vOOE9w==",
   "success": true,
   "projectFilePath": "C:\\Users\\bjark\\OneDrive - Aarhus universitet\\BV\\uni\\6.Sem\\SWT\\TestSensor\\TestSensor.Test.Unit\\TestSensor.Test.Unit.csproj",
   "expectedPackageFiles": [
@@ -17,9 +17,11 @@
     "C:\\Users\\bjark\\.nuget\\packages\\microsoft.win32.registry\\4.3.0\\microsoft.win32.registry.4.3.0.nupkg.sha512",
     "C:\\Users\\bjark\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
     "C:\\Users\\bjark\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
+    "C:\\Users\\bjark\\.nuget\\packages\\nsubstitute\\4.2.2\\nsubstitute.4.2.2.nupkg.sha512",
     "C:\\Users\\bjark\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
     "C:\\Users\\bjark\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
     "C:\\Users\\bjark\\.nuget\\packages\\nunit3testadapter\\3.17.0\\nunit3testadapter.3.17.0.nupkg.sha512",
+    "C:\\Users\\bjark\\.nuget\\packages\\nunitxml.testlogger\\3.0.97\\nunitxml.testlogger.3.0.97.nupkg.sha512",
     "C:\\Users\\bjark\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\bjark\\.nuget\\packages\\system.appcontext\\4.1.0\\system.appcontext.4.1.0.nupkg.sha512",
     "C:\\Users\\bjark\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
