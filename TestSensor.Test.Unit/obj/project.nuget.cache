@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LdmGa5EAgbQ7uFhcJLuMMZYKiNnwRcDVQD4fDe+rcC+NVVsYDJNXAiB4rCG4iMAgNO2PhZw/6ZJNQvtEypeyJA==",
+  "dgSpecHash": "EhM27Bs4bgcmyZEX6cEyNrYRHA8vI2hn67HVv5qcvIdGwtv7G8U4/xjFlq0bPny3fXfN2pJgcTL8As8LMwFphA==",
   "success": true,
   "projectFilePath": "C:\\Users\\bjark\\OneDrive - Aarhus universitet\\BV\\uni\\6.Sem\\SWT\\TestSensor\\TestSensor.Test.Unit\\TestSensor.Test.Unit.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\bjark\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
+    "C:\\Users\\bjark\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\bjark\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
     "C:\\Users\\bjark\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\bjark\\.nuget\\packages\\microsoft.dotnet.internalabstractions\\1.0.0\\microsoft.dotnet.internalabstractions.1.0.0.nupkg.sha512",
