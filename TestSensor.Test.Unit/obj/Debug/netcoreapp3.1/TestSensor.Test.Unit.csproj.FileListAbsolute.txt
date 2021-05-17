@@ -204,3 +204,7 @@ C:\Users\bjark\OneDrive - Aarhus universitet\BV\uni\6.Sem\SWT\TestSensor\TestSen
 C:\Users\bjark\OneDrive - Aarhus universitet\BV\uni\6.Sem\SWT\TestSensor\TestSensor.Test.Unit\obj\Debug\netcoreapp3.1\TestSensor.Test.Unit.dll
 C:\Users\bjark\OneDrive - Aarhus universitet\BV\uni\6.Sem\SWT\TestSensor\TestSensor.Test.Unit\obj\Debug\netcoreapp3.1\TestSensor.Test.Unit.pdb
 C:\Users\bjark\OneDrive - Aarhus universitet\BV\uni\6.Sem\SWT\TestSensor\TestSensor.Test.Unit\obj\Debug\netcoreapp3.1\TestSensor.Test.Unit.genruntimeconfig.cache
+C:\Users\bjark\OneDrive - Aarhus universitet\BV\uni\6.Sem\SWT\TestSensor\TestSensor.Test.Unit\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Extension.NUnit.Xml.TestLogger.dll
+C:\Users\bjark\OneDrive - Aarhus universitet\BV\uni\6.Sem\SWT\TestSensor\TestSensor.Test.Unit\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Extension.NUnit.Xml.TestAdapter.dll
+C:\Users\bjark\OneDrive - Aarhus universitet\BV\uni\6.Sem\SWT\TestSensor\TestSensor.Test.Unit\bin\Debug\netcoreapp3.1\Spekt.TestLogger.dll
+C:\Users\bjark\OneDrive - Aarhus universitet\BV\uni\6.Sem\SWT\TestSensor\TestSensor.Test.Unit\bin\Debug\netcoreapp3.1\NSubstitute.dll

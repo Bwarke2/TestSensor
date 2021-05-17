@@ -1317,6 +1317,12 @@
       "TempSensor/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Castle.Core": "4.4.1",
+          "Microsoft.NET.Test.Sdk": "16.9.4",
+          "NUnit": "3.13.2",
+          "NUnit3TestAdapter": "3.17.0"
+        },
         "compile": {
           "bin/placeholder/TempSensor.dll": {}
         },
