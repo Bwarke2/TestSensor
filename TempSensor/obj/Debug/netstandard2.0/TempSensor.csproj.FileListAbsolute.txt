@@ -23,4 +23,6 @@ C:\Users\bjark\OneDrive - Aarhus universitet\BV\uni\6.Sem\SWT\TestSensor\TempSen
 C:\Users\bjark\OneDrive - Aarhus universitet\BV\uni\6.Sem\SWT\TestSensor\TempSensor\obj\Debug\netstandard2.0\TempSensor.csproj.CoreCompileInputs.cache
 C:\Users\bjark\OneDrive - Aarhus universitet\BV\uni\6.Sem\SWT\TestSensor\TempSensor\obj\Debug\netstandard2.0\TempSensor.dll
 C:\Users\bjark\OneDrive - Aarhus universitet\BV\uni\6.Sem\SWT\TestSensor\TempSensor\obj\Debug\netstandard2.0\TempSensor.pdb
-C:\Users\bjark\OneDrive - Aarhus universitet\BV\uni\6.Sem\SWT\TestSensor\TempSensor\obj\Debug\netstandard2.0\TempSensor.csprojAssemblyReference.cache
+C:\Users\bjark\OneDrive - Aarhus universitet\BV\uni\6.Sem\SWT\TestSensor\TempSensor\bin\Debug\netstandard2.0\Microsoft.VisualStudio.TestPlatform.Extension.NUnit.Xml.TestLogger.dll
+C:\Users\bjark\OneDrive - Aarhus universitet\BV\uni\6.Sem\SWT\TestSensor\TempSensor\bin\Debug\netstandard2.0\Microsoft.VisualStudio.TestPlatform.Extension.NUnit.Xml.TestAdapter.dll
+C:\Users\bjark\OneDrive - Aarhus universitet\BV\uni\6.Sem\SWT\TestSensor\TempSensor\bin\Debug\netstandard2.0\Spekt.TestLogger.dll
