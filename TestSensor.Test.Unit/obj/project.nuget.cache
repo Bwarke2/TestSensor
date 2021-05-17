@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JGa3hqNGTzA9f1UeIhJKhc/SRNY7rHphMf/VylCn1JZ+Cvn7lW5KZCIx3eVz9N8YINx4Nr4YDQyJgwK7OzbdRA==",
+  "dgSpecHash": "xfD+Vs9vgr/RKdPE/FRAXdEV7srzWPuQSxP7geh2LLmoP1I64Bbi6hATlDAlPC2/Hta2/JW0JIwq0uyjoVL/yA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bjark\\OneDrive - Aarhus universitet\\BV\\uni\\6.Sem\\SWT\\TestSensor\\TestSensor.Test.Unit\\TestSensor.Test.Unit.csproj",
+  "projectFilePath": "C:\\Users\\bjark\\OneDrive - Aarhus universitet\\BV\\uni\\6.Sem\\SWT\\TestSensor\\TestSensor.Test.Unit\\Temp.Test.Unit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bjark\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\bjark\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

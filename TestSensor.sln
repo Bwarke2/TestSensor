@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TempSensor", "TempSensor\TempSensor.csproj", "{7217F6D1-58B6-4315-9F68-473A8717D2CC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestSensor.Test.Unit", "TestSensor.Test.Unit\TestSensor.Test.Unit.csproj", "{8902B260-CE88-43DE-8DA9-53851EB840BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Temp.Test.Unit", "TestSensor.Test.Unit\Temp.Test.Unit.csproj", "{8902B260-CE88-43DE-8DA9-53851EB840BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
