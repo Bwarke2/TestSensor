@@ -5119,11 +5119,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bjark\\OneDrive - Aarhus Universitet\\BV\\uni\\6.Sem\\SWT\\TestSensor\\TestSensor\\TestSensor.Test.Unit\\TestSensor.Test.Unit.csproj",
+      "projectUniqueName": "C:\\Users\\bjark\\OneDrive - Aarhus universitet\\BV\\uni\\6.Sem\\SWT\\TestSensor\\TestSensor.Test.Unit\\TestSensor.Test.Unit.csproj",
       "projectName": "TestSensor.Test.Unit",
-      "projectPath": "C:\\Users\\bjark\\OneDrive - Aarhus Universitet\\BV\\uni\\6.Sem\\SWT\\TestSensor\\TestSensor\\TestSensor.Test.Unit\\TestSensor.Test.Unit.csproj",
+      "projectPath": "C:\\Users\\bjark\\OneDrive - Aarhus universitet\\BV\\uni\\6.Sem\\SWT\\TestSensor\\TestSensor.Test.Unit\\TestSensor.Test.Unit.csproj",
       "packagesPath": "C:\\Users\\bjark\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bjark\\OneDrive - Aarhus Universitet\\BV\\uni\\6.Sem\\SWT\\TestSensor\\TestSensor\\TestSensor.Test.Unit\\obj\\",
+      "outputPath": "C:\\Users\\bjark\\OneDrive - Aarhus universitet\\BV\\uni\\6.Sem\\SWT\\TestSensor\\TestSensor.Test.Unit\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bjark\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5140,8 +5140,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\bjark\\OneDrive - Aarhus Universitet\\BV\\uni\\6.Sem\\SWT\\TestSensor\\TestSensor\\TempSensor\\TempSensor.csproj": {
-              "projectPath": "C:\\Users\\bjark\\OneDrive - Aarhus Universitet\\BV\\uni\\6.Sem\\SWT\\TestSensor\\TestSensor\\TempSensor\\TempSensor.csproj"
+            "C:\\Users\\bjark\\OneDrive - Aarhus universitet\\BV\\uni\\6.Sem\\SWT\\TestSensor\\TempSensor\\TempSensor.csproj": {
+              "projectPath": "C:\\Users\\bjark\\OneDrive - Aarhus universitet\\BV\\uni\\6.Sem\\SWT\\TestSensor\\TempSensor\\TempSensor.csproj"
             }
           }
         }

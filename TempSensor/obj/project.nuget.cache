@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "soIbOCuMCO62Ff0iyR+4+RMqCb0nMGc/y2dM1+qlX1+S2rEPLBUMcmqYQERyrYX4ff5kLiFEb7Sy4a//EqKQaw==",
+  "dgSpecHash": "ISJWwkUROwVxzojm72UVMn8l65k45ym9dytRDQy/HLK+TToUY8AmAf1iLQhnVtX7EmciFUv5mbdDgorF3e2l2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bjark\\OneDrive - Aarhus Universitet\\BV\\uni\\6.Sem\\SWT\\TestSensor\\TestSensor\\TempSensor\\TempSensor.csproj",
+  "projectFilePath": "C:\\Users\\bjark\\OneDrive - Aarhus universitet\\BV\\uni\\6.Sem\\SWT\\TestSensor\\TempSensor\\TempSensor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bjark\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\bjark\\.nuget\\packages\\microsoft.net.test.sdk\\16.9.4\\microsoft.net.test.sdk.16.9.4.nupkg.sha512",

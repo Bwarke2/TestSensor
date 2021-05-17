@@ -3,11 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSensor", "TestSensor\TestSensor.csproj", "{D7BAFC19-8C7E-425E-AB75-6621B5CC1D2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TempSensor", "TempSensor\TempSensor.csproj", "{7217F6D1-58B6-4315-9F68-473A8717D2CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempSensor", "TempSensor\TempSensor.csproj", "{7217F6D1-58B6-4315-9F68-473A8717D2CC}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSensor.Test.Unit", "TestSensor.Test.Unit\TestSensor.Test.Unit.csproj", "{8902B260-CE88-43DE-8DA9-53851EB840BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestSensor.Test.Unit", "TestSensor.Test.Unit\TestSensor.Test.Unit.csproj", "{8902B260-CE88-43DE-8DA9-53851EB840BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D7BAFC19-8C7E-425E-AB75-6621B5CC1D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D7BAFC19-8C7E-425E-AB75-6621B5CC1D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D7BAFC19-8C7E-425E-AB75-6621B5CC1D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D7BAFC19-8C7E-425E-AB75-6621B5CC1D2E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7217F6D1-58B6-4315-9F68-473A8717D2CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7217F6D1-58B6-4315-9F68-473A8717D2CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7217F6D1-58B6-4315-9F68-473A8717D2CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
