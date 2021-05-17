@@ -451,19 +451,6 @@
           "lib/netstandard1.0/Newtonsoft.Json.dll": {}
         }
       },
-      "NSubstitute/4.2.2": {
-        "type": "package",
-        "dependencies": {
-          "Castle.Core": "4.4.0",
-          "System.Threading.Tasks.Extensions": "4.3.0"
-        },
-        "compile": {
-          "lib/netstandard2.0/NSubstitute.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/NSubstitute.dll": {}
-        }
-      },
       "NuGet.Frameworks/5.0.0": {
         "type": "package",
         "compile": {
@@ -503,12 +490,6 @@
         },
         "build": {
           "build/netcoreapp2.1/NUnit3TestAdapter.props": {}
-        }
-      },
-      "NunitXml.TestLogger/3.0.97": {
-        "type": "package",
-        "build": {
-          "build/netstandard1.0/_._": {}
         }
       },
       "runtime.native.System/4.3.0": {
@@ -1172,7 +1153,7 @@
           "System.Threading.Tasks": "4.3.0"
         },
         "compile": {
-          "lib/netstandard1.0/System.Threading.Tasks.Extensions.dll": {}
+          "lib/netstandard1.0/_._": {}
         },
         "runtime": {
           "lib/netstandard1.0/System.Threading.Tasks.Extensions.dll": {}
@@ -1317,13 +1298,6 @@
       "TempSensor/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Castle.Core": "4.4.1",
-          "Microsoft.NET.Test.Sdk": "16.9.4",
-          "NSubstitute": "4.2.2",
-          "NUnit": "3.13.2",
-          "NunitXml.TestLogger": "3.0.97"
-        },
         "compile": {
           "bin/placeholder/TempSensor.dll": {}
         },
@@ -2196,25 +2170,6 @@
         "tools/install.ps1"
       ]
     },
-    "NSubstitute/4.2.2": {
-      "sha512": "s+H1fUo+WSymYxNdZlwhekdNDLv4w0ZvmwYheMEe4tWACcMDNoqfcDpeL66RyWfurNvvIYQJNP3VUwX2aAC1gw==",
-      "type": "package",
-      "path": "nsubstitute/4.2.2",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/net45/NSubstitute.dll",
-        "lib/net45/NSubstitute.xml",
-        "lib/net46/NSubstitute.dll",
-        "lib/net46/NSubstitute.xml",
-        "lib/netstandard1.3/NSubstitute.dll",
-        "lib/netstandard1.3/NSubstitute.xml",
-        "lib/netstandard2.0/NSubstitute.dll",
-        "lib/netstandard2.0/NSubstitute.xml",
-        "nsubstitute.4.2.2.nupkg.sha512",
-        "nsubstitute.nuspec"
-      ]
-    },
     "NuGet.Frameworks/5.0.0": {
       "sha512": "c5JVjuVAm4f7E9Vj+v09Z9s2ZsqFDjBpcsyS3M9xRo0bEdm/LVZSzLxxNvfvAwRiiE8nwe1h2G4OwiwlzFKXlA==",
       "type": "package",
@@ -2278,23 +2233,6 @@
         "build/netcoreapp2.1/nunit.engine.dll",
         "nunit3testadapter.3.17.0.nupkg.sha512",
         "nunit3testadapter.nuspec"
-      ]
-    },
-    "NunitXml.TestLogger/3.0.97": {
-      "sha512": "ecWZPmdfLZtyjeK6SJPeMZMh81gTbdivWzl/x4phbgqdeOKnWVdIOxS0NMyEUgzcpDeEK4SZqkg61I7egZzCpg==",
-      "type": "package",
-      "path": "nunitxml.testlogger/3.0.97",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "build/_common/Microsoft.VisualStudio.TestPlatform.Extension.NUnit.Xml.TestAdapter.dll",
-        "build/_common/Microsoft.VisualStudio.TestPlatform.Extension.NUnit.Xml.TestLogger.dll",
-        "build/_common/Spekt.TestLogger.dll",
-        "build/net45/NUnitXml.TestLogger.props",
-        "build/netstandard1.0/NUnitXml.TestLogger.props",
-        "nunitxml.testlogger.3.0.97.nupkg.sha512",
-        "nunitxml.testlogger.nuspec",
-        "packageIcon.png"
       ]
     },
     "runtime.native.System/4.3.0": {

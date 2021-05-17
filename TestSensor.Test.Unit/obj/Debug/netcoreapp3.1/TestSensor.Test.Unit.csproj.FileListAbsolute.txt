@@ -104,9 +104,6 @@ C:\Users\bjark\OneDrive - Aarhus Universitet\BV\uni\6.Sem\SWT\TestSensor\TestSen
 C:\Users\bjark\OneDrive - Aarhus Universitet\BV\uni\6.Sem\SWT\TestSensor\TestSensor\TestSensor.Test.Unit\obj\Debug\netcoreapp3.1\TestSensor.Test.Unit.pdb
 C:\Users\bjark\OneDrive - Aarhus Universitet\BV\uni\6.Sem\SWT\TestSensor\TestSensor\TestSensor.Test.Unit\obj\Debug\netcoreapp3.1\TestSensor.Test.Unit.genruntimeconfig.cache
 C:\Users\bjark\OneDrive - Aarhus universitet\BV\uni\6.Sem\SWT\TestSensor\TestSensor.Test.Unit\bin\Debug\netcoreapp3.1\testhost.dll
-C:\Users\bjark\OneDrive - Aarhus universitet\BV\uni\6.Sem\SWT\TestSensor\TestSensor.Test.Unit\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Extension.NUnit.Xml.TestLogger.dll
-C:\Users\bjark\OneDrive - Aarhus universitet\BV\uni\6.Sem\SWT\TestSensor\TestSensor.Test.Unit\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Extension.NUnit.Xml.TestAdapter.dll
-C:\Users\bjark\OneDrive - Aarhus universitet\BV\uni\6.Sem\SWT\TestSensor\TestSensor.Test.Unit\bin\Debug\netcoreapp3.1\Spekt.TestLogger.dll
 C:\Users\bjark\OneDrive - Aarhus universitet\BV\uni\6.Sem\SWT\TestSensor\TestSensor.Test.Unit\bin\Debug\netcoreapp3.1\testhost.exe
 C:\Users\bjark\OneDrive - Aarhus universitet\BV\uni\6.Sem\SWT\TestSensor\TestSensor.Test.Unit\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\Users\bjark\OneDrive - Aarhus universitet\BV\uni\6.Sem\SWT\TestSensor\TestSensor.Test.Unit\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
@@ -129,7 +126,6 @@ C:\Users\bjark\OneDrive - Aarhus universitet\BV\uni\6.Sem\SWT\TestSensor\TestSen
 C:\Users\bjark\OneDrive - Aarhus universitet\BV\uni\6.Sem\SWT\TestSensor\TestSensor.Test.Unit\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
 C:\Users\bjark\OneDrive - Aarhus universitet\BV\uni\6.Sem\SWT\TestSensor\TestSensor.Test.Unit\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
 C:\Users\bjark\OneDrive - Aarhus universitet\BV\uni\6.Sem\SWT\TestSensor\TestSensor.Test.Unit\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\bjark\OneDrive - Aarhus universitet\BV\uni\6.Sem\SWT\TestSensor\TestSensor.Test.Unit\bin\Debug\netcoreapp3.1\NSubstitute.dll
 C:\Users\bjark\OneDrive - Aarhus universitet\BV\uni\6.Sem\SWT\TestSensor\TestSensor.Test.Unit\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
 C:\Users\bjark\OneDrive - Aarhus universitet\BV\uni\6.Sem\SWT\TestSensor\TestSensor.Test.Unit\bin\Debug\netcoreapp3.1\nunit.framework.dll
 C:\Users\bjark\OneDrive - Aarhus universitet\BV\uni\6.Sem\SWT\TestSensor\TestSensor.Test.Unit\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll

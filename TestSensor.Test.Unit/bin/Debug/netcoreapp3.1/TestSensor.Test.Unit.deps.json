@@ -395,18 +395,6 @@
           }
         }
       },
-      "NSubstitute/4.2.2": {
-        "dependencies": {
-          "Castle.Core": "4.4.1",
-          "System.Threading.Tasks.Extensions": "4.3.0"
-        },
-        "runtime": {
-          "lib/netstandard2.0/NSubstitute.dll": {
-            "assemblyVersion": "4.2.0.0",
-            "fileVersion": "4.2.2.0"
-          }
-        }
-      },
       "NuGet.Frameworks/5.0.0": {
         "runtime": {
           "lib/netstandard2.0/NuGet.Frameworks.dll": {
@@ -439,7 +427,6 @@
           "System.Xml.XmlDocument": "4.3.0"
         }
       },
-      "NunitXml.TestLogger/3.0.97": {},
       "runtime.native.System/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0",
@@ -915,14 +902,6 @@
         }
       },
       "TempSensor/1.0.0": {
-        "dependencies": {
-          "Castle.Core": "4.4.1",
-          "Microsoft.NET.Test.Sdk": "16.9.4",
-          "NSubstitute": "4.2.2",
-          "NUnit": "3.13.2",
-          "NUnit3TestAdapter": "3.17.0",
-          "NunitXml.TestLogger": "3.0.97"
-        },
         "runtime": {
           "TempSensor.dll": {}
         }
@@ -1026,13 +1005,6 @@
       "path": "newtonsoft.json/9.0.1",
       "hashPath": "newtonsoft.json.9.0.1.nupkg.sha512"
     },
-    "NSubstitute/4.2.2": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-s+H1fUo+WSymYxNdZlwhekdNDLv4w0ZvmwYheMEe4tWACcMDNoqfcDpeL66RyWfurNvvIYQJNP3VUwX2aAC1gw==",
-      "path": "nsubstitute/4.2.2",
-      "hashPath": "nsubstitute.4.2.2.nupkg.sha512"
-    },
     "NuGet.Frameworks/5.0.0": {
       "type": "package",
       "serviceable": true,
@@ -1053,13 +1025,6 @@
       "sha512": "sha512-I9MNvK+GM2yXrHPitwZkAZKU9sYI2OO/8wKC+VuBD7V3z+ySQ1pSopX/urr0ooedI8/TIcajYPRO4vGRr7AM8A==",
       "path": "nunit3testadapter/3.17.0",
       "hashPath": "nunit3testadapter.3.17.0.nupkg.sha512"
-    },
-    "NunitXml.TestLogger/3.0.97": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-ecWZPmdfLZtyjeK6SJPeMZMh81gTbdivWzl/x4phbgqdeOKnWVdIOxS0NMyEUgzcpDeEK4SZqkg61I7egZzCpg==",
-      "path": "nunitxml.testlogger/3.0.97",
-      "hashPath": "nunitxml.testlogger.3.0.97.nupkg.sha512"
     },
     "runtime.native.System/4.3.0": {
       "type": "package",
