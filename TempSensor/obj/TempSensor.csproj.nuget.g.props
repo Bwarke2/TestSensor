@@ -17,7 +17,6 @@
   </PropertyGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <Import Project="$(NuGetPackageRoot)nunitxml.testlogger\3.0.97\build\netstandard1.0\NUnitXml.TestLogger.props" Condition="Exists('$(NuGetPackageRoot)nunitxml.testlogger\3.0.97\build\netstandard1.0\NUnitXml.TestLogger.props')" />
-    <Import Project="$(NuGetPackageRoot)nunit3testadapter\3.17.0\build\net35\NUnit3TestAdapter.props" Condition="Exists('$(NuGetPackageRoot)nunit3testadapter\3.17.0\build\net35\NUnit3TestAdapter.props')" />
     <Import Project="$(NuGetPackageRoot)nunit\3.13.2\build\NUnit.props" Condition="Exists('$(NuGetPackageRoot)nunit\3.13.2\build\NUnit.props')" />
   </ImportGroup>
 </Project>

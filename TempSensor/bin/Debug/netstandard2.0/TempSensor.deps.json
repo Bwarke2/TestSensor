@@ -14,7 +14,6 @@
           "NETStandard.Library": "2.0.3",
           "NSubstitute": "4.2.2",
           "NUnit": "3.13.2",
-          "NUnit3TestAdapter": "3.17.0",
           "NunitXml.TestLogger": "3.0.97"
         },
         "runtime": {
@@ -72,7 +71,6 @@
           }
         }
       },
-      "NUnit3TestAdapter/3.17.0": {},
       "NunitXml.TestLogger/3.0.97": {},
       "runtime.native.System/4.3.0": {
         "dependencies": {
@@ -600,13 +598,6 @@
       "sha512": "sha512-u+fz/lXyR4vlamySNAEMrXvh+GhAQiB6/aVZtU5WjivR5zF26Ui0tfteDtWqT90k9D8y6g8rFKYQC97Z7d195w==",
       "path": "nunit/3.13.2",
       "hashPath": "nunit.3.13.2.nupkg.sha512"
-    },
-    "NUnit3TestAdapter/3.17.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-I9MNvK+GM2yXrHPitwZkAZKU9sYI2OO/8wKC+VuBD7V3z+ySQ1pSopX/urr0ooedI8/TIcajYPRO4vGRr7AM8A==",
-      "path": "nunit3testadapter/3.17.0",
-      "hashPath": "nunit3testadapter.3.17.0.nupkg.sha512"
     },
     "NunitXml.TestLogger/3.0.97": {
       "type": "package",

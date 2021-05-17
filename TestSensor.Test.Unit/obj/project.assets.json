@@ -1322,7 +1322,6 @@
           "Microsoft.NET.Test.Sdk": "16.9.4",
           "NSubstitute": "4.2.2",
           "NUnit": "3.13.2",
-          "NUnit3TestAdapter": "3.17.0",
           "NunitXml.TestLogger": "3.0.97"
         },
         "compile": {
