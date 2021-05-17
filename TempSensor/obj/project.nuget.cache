@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "fXRZ9LayUq/jp5+ajaWbqvp6mSLwwSo7kSMqIkqWcweuNq7d6bTQZ9nSu2hv5/mpygfk64lSOxDuqhS/ep38mw==",
+  "dgSpecHash": "50G5k0Uzc9CVmn/kZjvW523fJemfuqbDRJEMt6fsDGklh/JH9i9ru4onKs+c0zUFi+6MZWnWrGu1dO6n8uAAWg==",
   "success": true,
   "projectFilePath": "C:\\Users\\bjark\\OneDrive - Aarhus universitet\\BV\\uni\\6.Sem\\SWT\\TestSensor\\TempSensor\\TempSensor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bjark\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
+    "C:\\Users\\bjark\\.nuget\\packages\\microsoft.net.test.sdk\\16.9.4\\microsoft.net.test.sdk.16.9.4.nupkg.sha512",
     "C:\\Users\\bjark\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\bjark\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\bjark\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
