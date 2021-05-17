@@ -11,9 +11,7 @@
         "dependencies": {
           "Castle.Core": "4.4.1",
           "Microsoft.NET.Test.Sdk": "16.9.4",
-          "NETStandard.Library": "2.0.3",
-          "NUnit": "3.13.2",
-          "NUnit3TestAdapter": "3.17.0"
+          "NETStandard.Library": "2.0.3"
         },
         "runtime": {
           "TempSensor.dll": {}
@@ -47,18 +45,6 @@
           "Microsoft.NETCore.Platforms": "1.1.0"
         }
       },
-      "NUnit/3.13.2": {
-        "dependencies": {
-          "NETStandard.Library": "2.0.3"
-        },
-        "runtime": {
-          "lib/netstandard2.0/nunit.framework.dll": {
-            "assemblyVersion": "3.13.2.0",
-            "fileVersion": "3.13.2.0"
-          }
-        }
-      },
-      "NUnit3TestAdapter/3.17.0": {},
       "runtime.native.System/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0",
@@ -571,20 +557,6 @@
       "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
       "path": "netstandard.library/2.0.3",
       "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
-    },
-    "NUnit/3.13.2": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-u+fz/lXyR4vlamySNAEMrXvh+GhAQiB6/aVZtU5WjivR5zF26Ui0tfteDtWqT90k9D8y6g8rFKYQC97Z7d195w==",
-      "path": "nunit/3.13.2",
-      "hashPath": "nunit.3.13.2.nupkg.sha512"
-    },
-    "NUnit3TestAdapter/3.17.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-I9MNvK+GM2yXrHPitwZkAZKU9sYI2OO/8wKC+VuBD7V3z+ySQ1pSopX/urr0ooedI8/TIcajYPRO4vGRr7AM8A==",
-      "path": "nunit3testadapter/3.17.0",
-      "hashPath": "nunit3testadapter.3.17.0.nupkg.sha512"
     },
     "runtime.native.System/4.3.0": {
       "type": "package",

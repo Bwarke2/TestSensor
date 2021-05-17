@@ -451,19 +451,6 @@
           "lib/netstandard1.0/Newtonsoft.Json.dll": {}
         }
       },
-      "NSubstitute/4.2.2": {
-        "type": "package",
-        "dependencies": {
-          "Castle.Core": "4.4.0",
-          "System.Threading.Tasks.Extensions": "4.3.0"
-        },
-        "compile": {
-          "lib/netstandard2.0/NSubstitute.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/NSubstitute.dll": {}
-        }
-      },
       "NuGet.Frameworks/5.0.0": {
         "type": "package",
         "compile": {
@@ -1172,7 +1159,7 @@
           "System.Threading.Tasks": "4.3.0"
         },
         "compile": {
-          "lib/netstandard1.0/System.Threading.Tasks.Extensions.dll": {}
+          "lib/netstandard1.0/_._": {}
         },
         "runtime": {
           "lib/netstandard1.0/System.Threading.Tasks.Extensions.dll": {}
@@ -1319,9 +1306,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Castle.Core": "4.4.1",
-          "Microsoft.NET.Test.Sdk": "16.9.4",
-          "NUnit": "3.13.2",
-          "NUnit3TestAdapter": "3.17.0"
+          "Microsoft.NET.Test.Sdk": "16.9.4"
         },
         "compile": {
           "bin/placeholder/TempSensor.dll": {}
@@ -2193,25 +2178,6 @@
         "newtonsoft.json.9.0.1.nupkg.sha512",
         "newtonsoft.json.nuspec",
         "tools/install.ps1"
-      ]
-    },
-    "NSubstitute/4.2.2": {
-      "sha512": "s+H1fUo+WSymYxNdZlwhekdNDLv4w0ZvmwYheMEe4tWACcMDNoqfcDpeL66RyWfurNvvIYQJNP3VUwX2aAC1gw==",
-      "type": "package",
-      "path": "nsubstitute/4.2.2",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/net45/NSubstitute.dll",
-        "lib/net45/NSubstitute.xml",
-        "lib/net46/NSubstitute.dll",
-        "lib/net46/NSubstitute.xml",
-        "lib/netstandard1.3/NSubstitute.dll",
-        "lib/netstandard1.3/NSubstitute.xml",
-        "lib/netstandard2.0/NSubstitute.dll",
-        "lib/netstandard2.0/NSubstitute.xml",
-        "nsubstitute.4.2.2.nupkg.sha512",
-        "nsubstitute.nuspec"
       ]
     },
     "NuGet.Frameworks/5.0.0": {
@@ -5106,9 +5072,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Castle.Core >= 4.4.1",
       "Microsoft.NET.Test.Sdk >= 16.9.4",
-      "NSubstitute >= 4.2.2",
       "NUnit >= 3.13.2",
       "NUnit3TestAdapter >= 3.17.0",
       "NunitXml.TestLogger >= 3.0.97",
@@ -5158,17 +5122,9 @@
       "netcoreapp3.1": {
         "targetAlias": "netcoreapp3.1",
         "dependencies": {
-          "Castle.Core": {
-            "target": "Package",
-            "version": "[4.4.1, )"
-          },
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
             "version": "[16.9.4, )"
-          },
-          "NSubstitute": {
-            "target": "Package",
-            "version": "[4.2.2, )"
           },
           "NUnit": {
             "target": "Package",

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "QlqGkCfr6W3+iCaX+HQxem/iV+9QHSrx1GY2pwUqz+Fop16f9fHfo4OIqqweVGi/9UDbxnuwF+XB0fVZQ8Sm7w==",
+  "dgSpecHash": "JGa3hqNGTzA9f1UeIhJKhc/SRNY7rHphMf/VylCn1JZ+Cvn7lW5KZCIx3eVz9N8YINx4Nr4YDQyJgwK7OzbdRA==",
   "success": true,
   "projectFilePath": "C:\\Users\\bjark\\OneDrive - Aarhus universitet\\BV\\uni\\6.Sem\\SWT\\TestSensor\\TestSensor.Test.Unit\\TestSensor.Test.Unit.csproj",
   "expectedPackageFiles": [
@@ -17,7 +17,6 @@
     "C:\\Users\\bjark\\.nuget\\packages\\microsoft.win32.registry\\4.3.0\\microsoft.win32.registry.4.3.0.nupkg.sha512",
     "C:\\Users\\bjark\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
     "C:\\Users\\bjark\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
-    "C:\\Users\\bjark\\.nuget\\packages\\nsubstitute\\4.2.2\\nsubstitute.4.2.2.nupkg.sha512",
     "C:\\Users\\bjark\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
     "C:\\Users\\bjark\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
     "C:\\Users\\bjark\\.nuget\\packages\\nunit3testadapter\\3.17.0\\nunit3testadapter.3.17.0.nupkg.sha512",
