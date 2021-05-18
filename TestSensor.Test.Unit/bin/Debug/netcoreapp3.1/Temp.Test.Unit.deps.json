@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v3.1": {
       "Temp.Test.Unit/1.0.0": {
         "dependencies": {
+          "Castle.Core": "4.4.1",
           "Microsoft.NET.Test.Sdk": "16.9.4",
           "NETStandard.Library": "2.0.3",
           "NUnit": "3.13.2",

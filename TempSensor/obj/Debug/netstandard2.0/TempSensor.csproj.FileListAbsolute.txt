@@ -23,4 +23,3 @@ C:\Users\bjark\OneDrive - Aarhus universitet\BV\uni\6.Sem\SWT\TestSensor\TempSen
 C:\Users\bjark\OneDrive - Aarhus universitet\BV\uni\6.Sem\SWT\TestSensor\TempSensor\obj\Debug\netstandard2.0\TempSensor.csproj.CoreCompileInputs.cache
 C:\Users\bjark\OneDrive - Aarhus universitet\BV\uni\6.Sem\SWT\TestSensor\TempSensor\obj\Debug\netstandard2.0\TempSensor.dll
 C:\Users\bjark\OneDrive - Aarhus universitet\BV\uni\6.Sem\SWT\TestSensor\TempSensor\obj\Debug\netstandard2.0\TempSensor.pdb
-C:\Users\bjark\OneDrive - Aarhus universitet\BV\uni\6.Sem\SWT\TestSensor\TempSensor\obj\Debug\netstandard2.0\TempSensor.csprojAssemblyReference.cache
