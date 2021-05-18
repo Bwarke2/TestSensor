@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "50G5k0Uzc9CVmn/kZjvW523fJemfuqbDRJEMt6fsDGklh/JH9i9ru4onKs+c0zUFi+6MZWnWrGu1dO6n8uAAWg==",
+  "dgSpecHash": "Dbxj7L0e4eJBxOOwoze2yqH6cpQkm+FQYcTYe0qEuJYzUWs5Y2igc5JJVjxpU9bp19V9zXzR2Khb9wcfI7CoQA==",
   "success": true,
   "projectFilePath": "C:\\Users\\bjark\\OneDrive - Aarhus universitet\\BV\\uni\\6.Sem\\SWT\\TestSensor\\TempSensor\\TempSensor.csproj",
   "expectedPackageFiles": [
@@ -9,8 +9,6 @@
     "C:\\Users\\bjark\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\bjark\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\bjark\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\bjark\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
-    "C:\\Users\\bjark\\.nuget\\packages\\nunitxml.testlogger\\3.0.97\\nunitxml.testlogger.3.0.97.nupkg.sha512",
     "C:\\Users\\bjark\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\bjark\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\bjark\\.nuget\\packages\\system.collections.nongeneric\\4.3.0\\system.collections.nongeneric.4.3.0.nupkg.sha512",

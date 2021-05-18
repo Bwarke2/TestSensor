@@ -62,27 +62,6 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
-      "NUnit/3.13.2": {
-        "type": "package",
-        "dependencies": {
-          "NETStandard.Library": "2.0.0"
-        },
-        "compile": {
-          "lib/netstandard2.0/nunit.framework.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/nunit.framework.dll": {}
-        },
-        "build": {
-          "build/NUnit.props": {}
-        }
-      },
-      "NunitXml.TestLogger/3.0.97": {
-        "type": "package",
-        "build": {
-          "build/netstandard1.0/NUnitXml.TestLogger.props": {}
-        }
-      },
       "runtime.native.System/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -890,47 +869,6 @@
         "lib/netstandard1.0/_._",
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
-      ]
-    },
-    "NUnit/3.13.2": {
-      "sha512": "u+fz/lXyR4vlamySNAEMrXvh+GhAQiB6/aVZtU5WjivR5zF26Ui0tfteDtWqT90k9D8y6g8rFKYQC97Z7d195w==",
-      "type": "package",
-      "path": "nunit/3.13.2",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "CHANGES.md",
-        "LICENSE.txt",
-        "NOTICES.txt",
-        "build/NUnit.props",
-        "icon.png",
-        "lib/net35/nunit.framework.dll",
-        "lib/net35/nunit.framework.xml",
-        "lib/net40/nunit.framework.dll",
-        "lib/net40/nunit.framework.xml",
-        "lib/net45/nunit.framework.dll",
-        "lib/net45/nunit.framework.xml",
-        "lib/netstandard2.0/nunit.framework.dll",
-        "lib/netstandard2.0/nunit.framework.xml",
-        "nunit.3.13.2.nupkg.sha512",
-        "nunit.nuspec"
-      ]
-    },
-    "NunitXml.TestLogger/3.0.97": {
-      "sha512": "ecWZPmdfLZtyjeK6SJPeMZMh81gTbdivWzl/x4phbgqdeOKnWVdIOxS0NMyEUgzcpDeEK4SZqkg61I7egZzCpg==",
-      "type": "package",
-      "path": "nunitxml.testlogger/3.0.97",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "build/_common/Microsoft.VisualStudio.TestPlatform.Extension.NUnit.Xml.TestAdapter.dll",
-        "build/_common/Microsoft.VisualStudio.TestPlatform.Extension.NUnit.Xml.TestLogger.dll",
-        "build/_common/Spekt.TestLogger.dll",
-        "build/net45/NUnitXml.TestLogger.props",
-        "build/netstandard1.0/NUnitXml.TestLogger.props",
-        "nunitxml.testlogger.3.0.97.nupkg.sha512",
-        "nunitxml.testlogger.nuspec",
-        "packageIcon.png"
       ]
     },
     "runtime.native.System/4.3.0": {
@@ -3145,9 +3083,7 @@
     ".NETStandard,Version=v2.0": [
       "Castle.Core >= 4.4.1",
       "Microsoft.NET.Test.Sdk >= 16.9.4",
-      "NETStandard.Library >= 2.0.3",
-      "NUnit >= 3.13.2",
-      "NunitXml.TestLogger >= 3.0.97"
+      "NETStandard.Library >= 2.0.3"
     ]
   },
   "packageFolders": {
@@ -3202,14 +3138,6 @@
             "target": "Package",
             "version": "[2.0.3, )",
             "autoReferenced": true
-          },
-          "NUnit": {
-            "target": "Package",
-            "version": "[3.13.2, )"
-          },
-          "NunitXml.TestLogger": {
-            "target": "Package",
-            "version": "[3.0.97, )"
           }
         },
         "imports": [
